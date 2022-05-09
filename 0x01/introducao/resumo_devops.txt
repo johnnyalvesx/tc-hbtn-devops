@@ -1,0 +1,54 @@
+O que é DevOps ? Quais beneficios em adotar DevOps nas empresas ?
+A metodologia DevOps é uma abordagem de cultura, automação e design de plataforma que 
+tem como objetivo agregar mais valor aos negócios e aumentar sua capacidade de resposta 
+às mudanças por meio de entregas de serviços rápidas e de alta qualidade. 
+
+Quais são os pilares da cultura DevOps ? O que é CALMS ?
+O CALMS é um acrônimo para Culture (Cultura), Automation (Automação), Lean (Metodologia Lean), 
+Measurement (Mensuração) e Sharing (Compartilhamento).
+
+- Pilares de cultura:
+-- Foco nas pessoas e em como elas pensam;
+-- Adesão de uma cultura da experimentação;
+-- Promoção de uma cultura de integração entre desenvolvimento e operações;
+-- Responsabilidade compartilhada entre equipes;
+-- Blameless: adesão de uma cultura livre de culpa por erros nos processos.
+- Pilares automação:
+-- Automatizar quase tudo o que for possível;
+-- Oferecer ferramentas para manter tudo aquilo que for necessário para que o processo de desenvolvimento, 
+testes e lançamentos sejam um sucesso.
+- Pilares Lean:
+-- Mantenha o foco no cliente e no valor gerado para ele;
+-- Elimine todos os focos de desperdício;
+-- Adote a entrega contínua;
+-- Foque no aumento de aprendizagem.
+- Pilares Mensuração:
+-- Mensure tudo que for possível;
+-- Apresente melhorias constantes;
+-- Adote a melhoria contínua em seu negócio;
+-- Adote o monitoramento e controle.
+-- Realize análises de desempenho constantemente.
+- Pilares Compartilhamento:
+-- Cultura do compartilhamento;
+-- Adesão de maior colaboração entre membros;
+-- Cultura da transparência;
+-- Feedback contínuo para os times.
+
+O que faz um Engenheiro DevOps ?
+Preenche as lacunas entre as ações necessárias para mudar uma aplicação 
+rapidamente e as tarefas para manter a confiabilidade. 
+
+O que é DevSecOps?
+DevSecOps significa desenvolvimento, segurança e operações. 
+É uma abordagem à cultura, automação e design da plataforma que integra segurança como 
+uma responsabilidade compartilhada em todo o ciclo de vida da TI.
+
+Principais ferramentas OpenSource para DevOps
+Gitlab, Puppet, Ansible, Jenkins e Vagrant.
+
+O que é CI/CD: integração e entrega contínuas ?
+Especificamente, o CI/CD aplica monitoramento e automação contínuos em todo o ciclo 
+de vida das aplicações, incluindo as etapas de teste e integração, além da entrega 
+e implantação. Juntas, essas práticas relacionadas são muitas vezes chamadas de 
+"pipeline de CI/CD" e são compatíveis com o trabalho conjunto das equipes de 
+operações e desenvolvimento com métodos ágeis.
